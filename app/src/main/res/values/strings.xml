@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="heading">Welcome to Minesweeper!</string>
+    <string name="reset">Reset</string>
+    <string name="flagOn">🚩 On</string>
+    <string name="flagOff">🚩 Off</string>
+</resources>
